@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning code in DevOps environment at Simplon.co
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on my LinkedIn
+
+You will found all my projects from school and also private content that I want to share. Feel free to give star or fork. Sharing is caring !
 
 <!---
 dahmani-karim/dahmani-karim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
