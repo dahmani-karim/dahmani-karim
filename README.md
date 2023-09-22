@@ -5,7 +5,7 @@
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/karimdahmani/)
 
  You will found all my projects from school and also private content that I want to share.
-### Feel free to give stars or forks. Sharing is caring !
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=808080&width=1024&lines=Feel+free+to+give+stars+or+forks.+💻+Sharing+is+caring+!+💞️" alt="Typing SVG" /></a></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
