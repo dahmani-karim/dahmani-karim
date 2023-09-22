@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim. Welcome to my GitHub Workplace !
 - 👀 You can visite my [Portfolio](https://dahmani-karim.github.io)
-- 🌱 I’m currently learning code in DevOps environment at Simplon.co
+- 🌱 I’m currently learning Web Development with [OpenClassrooms](https://openclassrooms.com)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/karimdahmani/)
 
