@@ -1,9 +1,11 @@
-#  Welcome to my GitHub Workplace !
+<h1 align="center">Welcome to my GitHub Workplace !</h1>
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim.
+
 - 👀 You can visite my [Portfolio](https://dahmani-karim.github.io)
 - 🌱 I’m currently learning Web Development with [OpenClassrooms](https://openclassrooms.com)
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/karimdahmani/)
+- 💞️ I’m looking to collaborate on ...
 
  You will found all my projects from school and also private content that I want to share.
  <p>
