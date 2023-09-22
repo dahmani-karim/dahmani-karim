@@ -1,11 +1,14 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim. Welcome to my GitHub Workplace !
+#  Welcome to my GitHub Workplace !
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim.
 - 👀 You can visite my [Portfolio](https://dahmani-karim.github.io)
 - 🌱 I’m currently learning Web Development with [OpenClassrooms](https://openclassrooms.com)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/karimdahmani/)
 
  You will found all my projects from school and also private content that I want to share.
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=808080&width=1024&lines=Feel+free+to+give+stars+or+forks.+💻+Sharing+is+caring+!+💞️" alt="Typing SVG" /></a></p>
+ <p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=808080&width=1024&lines=Feel+free+to+give+stars+or+forks.+💻+Sharing+is+caring+!+💞️" alt="Typing SVG" /></a>
+ </p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
