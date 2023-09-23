@@ -38,8 +38,8 @@
 
 <h2 align="center"> Stats:</h2>
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dahmani-karim&show_icons=true&theme=dark&locale=en&layout=compact" alt="dahmani-karim" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahmani-karim&show_icons=true&theme=dark&locale=en" alt="dahmani-karim" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dahmani-karim&show_icons=true&theme=dark&locale=en&layout=compact" alt="dahmani-karim" /></br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahmani-karim&show_icons=true&theme=dark&locale=en" alt="dahmani-karim" /></br>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahmani-karim&theme=dark" alt="dahmani-karim" />
 </p>
 <!---
