@@ -1,16 +1,14 @@
 <h1 align="center">Welcome to my GitHub Workplace !</h1>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim.
+<img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim.
 
 - 👀 You can visite my [Portfolio](https://dahmani-karim.github.io)
 - 🌱 I’m currently learning Web Development with [OpenClassrooms](https://openclassrooms.com)
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/karimdahmani/)
 - 💞️ I’m looking to collaborate on ...
 
- You will found all my projects from school and also private content that I want to share.
- <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=808080&width=1024&lines=Feel+free+to+give+stars+or+forks.+💻+Sharing+is+caring+!+💞️" alt="Typing SVG" /></a>
- </p>
+ <p align="center">You will found all my projects from school and also private content that I want to share.</p>
+ <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=808080&width=768&lines=Feel+free+to+give+stars+or+forks.+💻+Sharing+is+caring+!+💞️" alt="Typing SVG" /></a>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
