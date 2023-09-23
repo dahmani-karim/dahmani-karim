@@ -39,14 +39,9 @@
 <h2 align="center"> Stats:</h2>
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dahmani-karim&show_icons=true&theme=dark&locale=en" alt="dahmani-karim" />
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dahmani-karim&theme=dark" alt="dahmani-karim" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dahmani-karim&show_icons=true&theme=dark&locale=en&layout=compact" alt="dahmani-karim" />
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dahmani-karim&theme=dark" alt="dahmani-karim" />
 </p>
-
-<p>
-<h3> More...</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahmani-karim&show_icons=true&theme=dark&locale=en&layout=compact" alt="dahmani-karim" />
-</p>
-
 <!---
 dahmani-karim/dahmani-karim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
