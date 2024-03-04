@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQGM9SfEdndsgg/profile-displaybackgroundimage-shrink_350_1400/0/1709553834207?e=1715212800&v=beta&t=R4IE37G8DdDXH3HLh9C_kfElA_FXP_qfObaxrjQ30y0" />
+
 <h1 align="center">Welcome to my GitHub Workplace !</h1>
 
 <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Karim.
